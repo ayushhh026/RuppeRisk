@@ -1,0 +1,7 @@
+Feature,Definition,Hypothesis
+EXT_SOURCE_1_SQ,EXT_SOURCE_1 ** 2,Nonlinear relationship of EXT_SOURCE_1 with default risk
+EXT_SOURCE_2_SQ,EXT_SOURCE_2 ** 2,Nonlinear relationship of EXT_SOURCE_2 with default risk
+EXT_SOURCE_3_SQ,EXT_SOURCE_3 ** 2,Nonlinear relationship of EXT_SOURCE_3 with default risk
+EXT_SOURCE_1_2_3,EXT_SOURCE_1 * EXT_SOURCE_2 * EXT_SOURCE_3,Combined nonlinear interaction of all external scores
+AGE_YEARS_SQ,AGE_YEARS ** 2,Nonlinear age-risk relationship
+AGE_EXT_SOURCE_MEAN,AGE_YEARS * EXT_SOURCE_MEAN,Age may moderate the predictive effect of external scores
